@@ -1,6 +1,0 @@
-array = Array.new(4)
-array.each do |main|
-  main = []
-  4.times { main.push(rand(-10..10)) }
-  p main
-end
