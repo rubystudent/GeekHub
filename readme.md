@@ -7,4 +7,5 @@ next - 28.10.16
 
 ##Notes:  
 ####lesson2->Blog:  
-  gem install colorize  
+
+    gem install colorize  
